@@ -1,1 +1,1 @@
-# Inventory-Supply_Chain_Management
+# Inventory_Supply_Chain_Management
